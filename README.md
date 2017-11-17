@@ -1,0 +1,2 @@
+# disciple
+Blog for disciples
